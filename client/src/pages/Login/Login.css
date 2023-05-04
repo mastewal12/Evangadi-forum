@@ -1,0 +1,30 @@
+.login{
+   text-align: center;
+ 
+}
+.input_holder{
+    width: 80%;
+    margin: 10px 0;
+    height: 40px;
+    border-color: rgb(193, 171, 171);
+    line-height: 1.5;
+}
+button{
+   
+   padding: 10px 70px;
+   margin: 10px;
+   color: #fff;
+    background-color: #fe8402;
+    border: none;
+    font-size: 15px;
+    line-height: 25px;
+    border-radius: 6px;
+  
+   
+}
+.link_item{
+    color: rgb(239, 157, 6);
+}
+.create_acct{
+    margin: 10px;
+}

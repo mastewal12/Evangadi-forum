@@ -1,0 +1,24 @@
+.signup{
+    text-align: center;
+}
+.input_form{
+    width: 39%;
+  
+   
+    height: 40px;
+    border-color: rgb(193, 171, 171);
+    line-height: 1.5;
+}
+.btn{
+    background-color: rgb(72, 72, 234);
+    width: 80%;
+} 
+.input-form{
+    margin-right: 5px;
+}
+.name_input{
+    margin: 10px 0;
+}
+a{
+    color: rgb(239, 157, 6);
+}

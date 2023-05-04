@@ -1,0 +1,15 @@
+.homePage{
+    margin:auto 80px;
+    text-align: center;
+}
+
+
+.qun-btn{
+    background-color: rgb(72, 72, 234);
+    padding: 3px 55px;
+}
+
+.flex{
+    display: flex;
+    justify-content: space-between;
+}
